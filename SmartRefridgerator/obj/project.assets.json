@@ -7038,7 +7038,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ahari\\.nuget\\packages\\": {}
+    "C:\\Users\\akhullar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -7046,14 +7046,14 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\ahari\\source\\repos\\SmartRefridgerator\\SmartRefridgerator\\SmartRefrigerator.csproj",
+      "projectUniqueName": "C:\\Users\\akhullar\\source\\repos\\Refridgerator\\SmartRefridgerator\\SmartRefrigerator.csproj",
       "projectName": "SmartRefrigerator",
-      "projectPath": "c:\\users\\ahari\\source\\repos\\SmartRefridgerator\\SmartRefridgerator\\SmartRefrigerator.csproj",
-      "packagesPath": "C:\\Users\\ahari\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\ahari\\source\\repos\\SmartRefridgerator\\SmartRefridgerator\\obj\\",
+      "projectPath": "C:\\Users\\akhullar\\source\\repos\\Refridgerator\\SmartRefridgerator\\SmartRefrigerator.csproj",
+      "packagesPath": "C:\\Users\\akhullar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\akhullar\\source\\repos\\Refridgerator\\SmartRefridgerator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ahari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\akhullar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7061,12 +7061,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {}
         }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
       }
     },
     "frameworks": {

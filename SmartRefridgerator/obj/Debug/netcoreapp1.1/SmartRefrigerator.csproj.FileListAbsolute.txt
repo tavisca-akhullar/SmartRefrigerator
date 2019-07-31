@@ -1,0 +1,11 @@
+C:\Users\akhullar\source\repos\Refridgerator\SmartRefridgerator\bin\Debug\netcoreapp1.1\SmartRefrigerator.deps.json
+C:\Users\akhullar\source\repos\Refridgerator\SmartRefridgerator\bin\Debug\netcoreapp1.1\SmartRefrigerator.runtimeconfig.json
+C:\Users\akhullar\source\repos\Refridgerator\SmartRefridgerator\bin\Debug\netcoreapp1.1\SmartRefrigerator.runtimeconfig.dev.json
+C:\Users\akhullar\source\repos\Refridgerator\SmartRefridgerator\bin\Debug\netcoreapp1.1\SmartRefrigerator.dll
+C:\Users\akhullar\source\repos\Refridgerator\SmartRefridgerator\bin\Debug\netcoreapp1.1\SmartRefrigerator.pdb
+C:\Users\akhullar\source\repos\Refridgerator\SmartRefridgerator\obj\Debug\netcoreapp1.1\SmartRefrigerator.csprojResolveAssemblyReference.cache
+C:\Users\akhullar\source\repos\Refridgerator\SmartRefridgerator\obj\Debug\netcoreapp1.1\SmartRefrigerator.csproj.CoreCompileInputs.cache
+C:\Users\akhullar\source\repos\Refridgerator\SmartRefridgerator\obj\Debug\netcoreapp1.1\SmartRefrigerator.AssemblyInfoInputs.cache
+C:\Users\akhullar\source\repos\Refridgerator\SmartRefridgerator\obj\Debug\netcoreapp1.1\SmartRefrigerator.AssemblyInfo.cs
+C:\Users\akhullar\source\repos\Refridgerator\SmartRefridgerator\obj\Debug\netcoreapp1.1\SmartRefrigerator.dll
+C:\Users\akhullar\source\repos\Refridgerator\SmartRefridgerator\obj\Debug\netcoreapp1.1\SmartRefrigerator.pdb

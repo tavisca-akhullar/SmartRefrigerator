@@ -8560,7 +8560,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ahari\\.nuget\\packages\\": {}
+    "C:\\Users\\akhullar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -8568,14 +8568,14 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\ahari\\source\\repos\\SmartRefridgerator\\XUnitTestProject1\\XUnitTestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\akhullar\\source\\repos\\Refridgerator\\XUnitTestProject1\\XUnitTestProject1.csproj",
       "projectName": "XUnitTestProject1",
-      "projectPath": "c:\\users\\ahari\\source\\repos\\SmartRefridgerator\\XUnitTestProject1\\XUnitTestProject1.csproj",
-      "packagesPath": "C:\\Users\\ahari\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\ahari\\source\\repos\\SmartRefridgerator\\XUnitTestProject1\\obj\\",
+      "projectPath": "C:\\Users\\akhullar\\source\\repos\\Refridgerator\\XUnitTestProject1\\XUnitTestProject1.csproj",
+      "packagesPath": "C:\\Users\\akhullar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\akhullar\\source\\repos\\Refridgerator\\XUnitTestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ahari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\akhullar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8583,16 +8583,22 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "c:\\users\\ahari\\source\\repos\\SmartRefridgerator\\SmartRefridgerator\\SmartRefrigerator.csproj": {
-              "projectPath": "c:\\users\\ahari\\source\\repos\\SmartRefridgerator\\SmartRefridgerator\\SmartRefrigerator.csproj"
+            "C:\\Users\\akhullar\\source\\repos\\Refridgerator\\SmartRefridgerator\\SmartRefrigerator.csproj": {
+              "projectPath": "C:\\Users\\akhullar\\source\\repos\\Refridgerator\\SmartRefridgerator\\SmartRefrigerator.csproj"
             }
           }
         }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
       }
     },
     "frameworks": {
